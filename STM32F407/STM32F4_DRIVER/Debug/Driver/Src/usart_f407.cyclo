@@ -1,0 +1,7 @@
+../Driver/Src/usart_f407.c:3:6:USART_PreriControlClock	8
+../Driver/Src/usart_f407.c:28:6:USART_Baurdrate	5
+../Driver/Src/usart_f407.c:63:6:USART_Init	8
+../Driver/Src/usart_f407.c:112:6:USART_DeInit	1
+../Driver/Src/usart_f407.c:116:9:USART_GetFlag	2
+../Driver/Src/usart_f407.c:124:6:USART_Sendata	5
+../Driver/Src/usart_f407.c:145:6:USART_Receivedata	2

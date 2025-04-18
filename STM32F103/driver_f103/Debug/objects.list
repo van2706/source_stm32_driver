@@ -1,0 +1,7 @@
+"./Driver/Src/gpio_f103.o"
+"./Driver/Src/systick_f103.o"
+"./Driver/Src/usart_f103.o"
+"./Src/main_usart.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"

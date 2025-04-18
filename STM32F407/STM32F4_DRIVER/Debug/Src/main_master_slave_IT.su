@@ -1,0 +1,5 @@
+../Src/main_master_slave_IT.c:26:5:main	16	static
+../Src/main_master_slave_IT.c:46:6:SPI2_IRQHandler	8	static
+../Src/main_master_slave_IT.c:49:6:SPI_ApplicationEventCallback	24	static
+../Src/main_master_slave_IT.c:60:6:SPI_GPIO	24	static
+../Src/main_master_slave_IT.c:81:6:SPI_Inits	8	static

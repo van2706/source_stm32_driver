@@ -1,0 +1,11 @@
+../Driver/Src/gpio_f407.c:9:6:GPIO_Periodclockcontrol	20
+../Driver/Src/gpio_f407.c:70:6:GPIO_Init	14
+../Driver/Src/gpio_f407.c:109:6:GPIO_Deinit	10
+../Driver/Src/gpio_f407.c:123:6:GPIO_WriteToPin	1
+../Driver/Src/gpio_f407.c:126:6:GPIO_WriteToPort	1
+../Driver/Src/gpio_f407.c:129:8:GPIO_ReadToPin	1
+../Driver/Src/gpio_f407.c:134:9:GPIO_ReadToPort	1
+../Driver/Src/gpio_f407.c:140:6:GPIO_ToggleFromInputPin	1
+../Driver/Src/gpio_f407.c:143:6:GPIO_IRQInterruptConfig	12
+../Driver/Src/gpio_f407.c:168:6:GPIO_IRQInterruptPriority	1
+../Driver/Src/gpio_f407.c:175:6:IRQHandling	2
